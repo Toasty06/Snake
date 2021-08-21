@@ -26,7 +26,7 @@ namespace Test_1
     {
         int x;  //x & y snake
         int y;
-        int oldy;
+        int oldy; 
         int oldx;
         int oldyo;
         int oldxo;
